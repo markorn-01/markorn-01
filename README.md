@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
 <h3 align="center">A passionate coder</h3>
-<img align="rigth" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png">
+<img align="rigt" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/minh ngô quang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh ngô quang" height="30" width="40" /></a>
