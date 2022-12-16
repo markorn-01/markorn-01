@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
-<h3 align="center">A passionate coder</h3>
+<h3 align="center">A passionate learner</h3>
 <img align="right" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
