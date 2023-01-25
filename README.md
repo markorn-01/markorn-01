@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=markorn-01&show_icons=true&locale=en&layout=compact" alt="markorn-01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markorn-01&show_icons=true&locale=en" alt="markorn-01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=markorn-01&show_icons=true&locale=en" alt="markorn-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markorn-01&" alt="markorn-01" /></p>
